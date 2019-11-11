@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Cerberix.Email.Core
+namespace Cerberix.Email
 {
     public interface IEmailSender
     {

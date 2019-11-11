@@ -1,4 +1,4 @@
-﻿namespace Cerberix.Email.Core
+﻿namespace Cerberix.Email
 {
     public class EmailMessageContact
     {

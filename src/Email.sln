@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerberix.Email.Core", "Cerberix.Email.Core\Cerberix.Email.Core.csproj", "{734C7B9D-B5CB-45F7-B513-60460861FA6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerberix.Email", "Cerberix.Email\Cerberix.Email.csproj", "{734C7B9D-B5CB-45F7-B513-60460861FA6F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerberix.Email.DotNet", "Cerberix.Email.DotNet\Cerberix.Email.DotNet.csproj", "{D8D52104-58BC-405F-A36A-BCD4E4F0F0B7}"
 EndProject

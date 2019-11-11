@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Cerberix.Email.Core
+namespace Cerberix.Email
 {
     public class EmailMessage
     {
