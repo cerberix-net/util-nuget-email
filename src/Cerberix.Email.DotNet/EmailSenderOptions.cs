@@ -1,6 +1,6 @@
 ﻿namespace Cerberix.Email.DotNet
 {
-    public class DotNetEmailSenderOptions
+    public class EmailSenderOptions
     {
         public string UserName { get; }
         public string Password { get; }
@@ -9,7 +9,7 @@
         public bool EnableSsl { get; }
         public int MaxDegreeOfParallelism { get; }
 
-        public DotNetEmailSenderOptions(
+        public EmailSenderOptions(
             string userName,
             string password,
             string host,
